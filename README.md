@@ -1,6 +1,6 @@
 # meals_app
 
-A flutter application for storing meal recipes.
+A flutter application for storing meal recipes. This is an app made simply for learning purposes and is not ended for commercial use. 
 
 ## Getting Started
 
